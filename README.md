@@ -1,2 +1,2 @@
 # rds-project
-Project for DS-GA 2017 at NYU CDS (Spring '21)
+Project for DS-GA 1017 at NYU CDS (Spring '21)
